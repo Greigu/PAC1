@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Dest
+  - BenchCollider
+  - wanderer
+  - Bee
+  - Thief
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,7 @@ TagManager:
   - Water
   - UI
   - Player
-  - 
+  - MlAgent
   - 
   - 
   - 
