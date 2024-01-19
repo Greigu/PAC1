@@ -9,6 +9,8 @@ TagManager:
   - wanderer
   - Bee
   - Thief
+  - Tree
+  - Target
   layers:
   - Default
   - TransparentFX
